@@ -1,0 +1,18 @@
+.elem_disaine {
+	display: block;
+}
+
+.elem_location {
+	display: inline-block;
+  	margin-right: 10px;
+}
+
+.elem_location1:last-child {
+	display: block;
+}
+
+.form_button {
+	margin-block: 10px;
+	float: right;
+	clear: right;
+}
